@@ -1,5 +1,4 @@
-﻿
-<%@ Page Language="VB" %>
+﻿<%@ Page Language="VB" %>
 
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
@@ -11,7 +10,7 @@
     <form id="form1" runat="server">
         <div id="container">
             <h1>Test Heading</h1>
-            <p>p*1>lorem1</p>
+            <p>var</p>
         </div>
     </form>
 </body>
